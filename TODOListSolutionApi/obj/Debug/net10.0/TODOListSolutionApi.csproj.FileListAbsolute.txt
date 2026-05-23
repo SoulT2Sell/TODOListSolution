@@ -121,3 +121,5 @@ C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\bin\Debug\net1
 C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\bin\Debug\net10.0\Scalar.AspNetCore.dll
+C:\Users\hr2br\RiderProjects\TODOListSolution\TODOListSolutionApi\obj\Debug\net10.0\TODOListSolutionApi.sourcelink.json
