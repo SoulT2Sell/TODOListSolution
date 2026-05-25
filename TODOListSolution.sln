@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TODOListSolutionApi", "TODOListSolutionApi\TODOListSolutionApi.csproj", "{EFC3F36A-CA65-4826-B331-FBF07E70E941}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListMVCClient", "ToDoListMVCClient\ToDoListMVCClient.csproj", "{5B73E0C0-8B37-46F1-A12D-BD7EEE764C74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{EFC3F36A-CA65-4826-B331-FBF07E70E941}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC3F36A-CA65-4826-B331-FBF07E70E941}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC3F36A-CA65-4826-B331-FBF07E70E941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B73E0C0-8B37-46F1-A12D-BD7EEE764C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B73E0C0-8B37-46F1-A12D-BD7EEE764C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B73E0C0-8B37-46F1-A12D-BD7EEE764C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B73E0C0-8B37-46F1-A12D-BD7EEE764C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
