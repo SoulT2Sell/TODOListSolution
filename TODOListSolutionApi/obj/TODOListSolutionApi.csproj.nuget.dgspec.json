@@ -1,36 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hr2br\\RiderProjects\\TODOListSolution\\TODOListSolutionApi\\TODOListSolutionApi.csproj": {}
+    "/home/s2s/Projects/C#/TODOListSolution/TODOListSolutionApi/TODOListSolutionApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hr2br\\RiderProjects\\TODOListSolution\\TODOListSolutionApi\\TODOListSolutionApi.csproj": {
+    "/home/s2s/Projects/C#/TODOListSolution/TODOListSolutionApi/TODOListSolutionApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hr2br\\RiderProjects\\TODOListSolution\\TODOListSolutionApi\\TODOListSolutionApi.csproj",
+        "projectUniqueName": "/home/s2s/Projects/C#/TODOListSolution/TODOListSolutionApi/TODOListSolutionApi.csproj",
         "projectName": "TODOListSolutionApi",
-        "projectPath": "C:\\Users\\hr2br\\RiderProjects\\TODOListSolution\\TODOListSolutionApi\\TODOListSolutionApi.csproj",
-        "packagesPath": "C:\\Users\\hr2br\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hr2br\\RiderProjects\\TODOListSolution\\TODOListSolutionApi\\obj\\",
+        "projectPath": "/home/s2s/Projects/C#/TODOListSolution/TODOListSolutionApi/TODOListSolutionApi.csproj",
+        "packagesPath": "/home/s2s/.nuget/packages/",
+        "outputPath": "/home/s2s/Projects/C#/TODOListSolution/TODOListSolutionApi/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hr2br\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/s2s/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -45,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -99,7 +94,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

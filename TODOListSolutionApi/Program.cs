@@ -17,7 +17,7 @@ public class Program
 
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
         builder.Services.AddOpenApi();
-        builder.Services.AddScoped<IToDoTaskServices, ToDoTaskServices>();
+        builder.Services.AddScoped<ITaskServices, TaskServices>();
         builder.Services.AddDbContext<AppDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("Postgres")));
 
@@ -37,8 +37,6 @@ public class Program
         app.UseAuthorization();
 
         app.MapControllers();
-        
-        
 
         app.Run();
     }
