@@ -73,7 +73,3 @@ Potential improvements include:
 ## 📌 Project Status
 
 This project is a work in progress and may evolve as I continue developing my .NET backend skills.
-
-## 📄 License
-
-No license has been specified yet. See the repository for current licensing information.
